@@ -16,7 +16,7 @@
             <link rel="shortcut icon" href="/favicons/favicon.ico">
             <meta name="msapplication-config" content="/favicons/browserconfig.xml">
             <meta name="theme-color" content="#0e4688">
-            <script async src="https://arc.io/widget.min.js#nAdpUjH4"></script>
+            <script async src="https://arc.io/widget.min.js#ba7oGAbv"></script>
         @show
 
         @section('user-data')
