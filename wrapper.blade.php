@@ -17,6 +17,7 @@
             <meta name="msapplication-config" content="/favicons/browserconfig.xml">
             <meta name="theme-color" content="#0e4688">
             <script async src="https://arc.io/widget.min.js#ba7oGAbv"></script>
+            <script data-ad-client="ca-pub-9007550230535938" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
         @show
 
         @section('user-data')
